@@ -148,24 +148,40 @@ ul li:nth-child(6) a {
 
 #youtube {
     color: #fff;
+    font-size: 24px;
 }
     
 #youtube:hover {
     color: #ff0000;
+    font-size: 25px;
 }
 
 #twitter {
     color: #fff;
+    font-size: 24px;
 }
     
 #twitter:hover {
     color: #1da1f2;
+    font-size: 25px;
 }
 
 #telegram {
     color: #fff;
+    font-size: 24px;
 }
     
 #telegram:hover {
     color: #53b1f0;
+    font-size: 25px;
+}
+
+#chat {
+    color: #fff;
+    font-size: 24px;
+}
+
+#chat:hover {
+    color: #CD7300;
+    font-size: 24px;
 }
