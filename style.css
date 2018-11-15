@@ -1,3 +1,9 @@
+/* Sito creato da MultiGamingItalia */
+/* Creatore: DrackeFG (www.dracke.tk)*/
+/* Sito creato senza site builder */
+
+/* Site */
+
 html, body {
     margin: 0;
     padding: 0;
@@ -26,7 +32,7 @@ body {
     display: table;
 }
 
-/* Menu */
+/* Menu - Nav */
 
 .nav {
     top: 0;
@@ -123,9 +129,6 @@ ul li:nth-child(6) a {
     color: #26272c;
 }
 
-/* Card */
-
-
 /* Footer */
 
 .footer {
@@ -183,7 +186,17 @@ ul li:nth-child(6) a {
 
 #chat:hover {
     color: #CD7300;
+    font-size: 25px;
+}
+
+#mail {
+    color: #fff;
     font-size: 24px;
+}
+
+#mail:hover {
+    color: #d54436;
+    font-size: 25px;
 }
 
 /* Contact Container */
